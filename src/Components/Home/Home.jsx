@@ -5,7 +5,7 @@ import FeaturedJobs from "../FeaturedJobs/FeaturedJobs";
 const Home = () => {
     return (
         <div>
-            {/* <Banner></Banner> */}
+            <Banner></Banner>
             {/* <JobCategoryList></JobCategoryList> */}
             <FeaturedJobs></FeaturedJobs>
         </div>
